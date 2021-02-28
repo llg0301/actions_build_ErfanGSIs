@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://bigota.d.miui.com/8.9.13/miui_MI4s_8.9.13_3917a5914d_7.0.zip
-  ROM_NAME: OxygenOS
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
